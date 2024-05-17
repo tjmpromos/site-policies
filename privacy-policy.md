@@ -35,7 +35,7 @@ Want to learn more about what we do with any information we collect? [Review the
 
 ## TABLE OF CONTENTS
 
-[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
+[1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 
 [2. HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
 
@@ -145,7 +145,7 @@ The information we collect includes:
 
 **If you are located in Canada, this section applies to you.**
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](#withdrawconsent) at any time.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](#withdrawing-your-consent) at any time.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
@@ -215,7 +215,9 @@ In some regions (like Canada), you have certain rights under applicable data pro
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+### Withdrawing your consent:
+
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
