@@ -29,7 +29,7 @@ This privacy notice for TJM Promos, Inc. ("**we**," "**us**," or "**our**"), des
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#9-what-are-your-privacy-rights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by visiting [http://www. tjmpromos.com/contact-us](http://www. tjmpromos.com/contact-us), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by visiting [http://www.tjmpromos.com/contact-us](http://www.tjmpromos.com/contact-us), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#table-of-contents).
 
@@ -103,7 +103,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
 
-Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookie Notice: [http://www. tjmpromos.com/cookie-policy](http://www. tjmpromos.com/cookie-policy).
+Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookie Notice: [http://www.tjmpromos.com/cookie-policy](http://www.tjmpromos.com/cookie-policy).
 
 The information we collect includes:
 
@@ -129,7 +129,7 @@ The information we collect includes:
 
 - **To send you marketing and promotional communications.** We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "[WHAT ARE YOUR PRIVACY RIGHTS?](#9-what-are-your-privacy-rights)" below.
 
-- **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more. For more information see our Cookie Notice: [http://www. tjmpromos.com/cookie-policy](http://www. tjmpromos.com/cookie-policy).
+- **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more. For more information see our Cookie Notice: [http://www.tjmpromos.com/cookie-policy](http://www.tjmpromos.com/cookie-policy).
 
 - **To post testimonials.** We post testimonials on our Services that may contain personal information.
 
@@ -185,7 +185,7 @@ We may need to share your personal information in the following situations:
 
 **In Short:** We may use cookies and other tracking technologies to collect and store your information.
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice: [http://www. tjmpromos.com/cookie-policy](http://www. tjmpromos.com/cookie-policy).
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice: [http://www.tjmpromos.com/cookie-policy](http://www.tjmpromos.com/cookie-policy).
 
 ## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
@@ -221,7 +221,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Opting out of marketing and promotional communications:** You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, replying "STOP" or "UNSUBSCRIBE" to the SMS messages that we send, or by contacting us using the details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below. You will then be removed from the marketing lists. However, we may still communicate with you - for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
 
-**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. For further information, please see our Cookie Notice: [http://www. tjmpromos.com/cookie-policy](http://www. tjmpromos.com/cookie-policy).
+**Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. For further information, please see our Cookie Notice: [http://www.tjmpromos.com/cookie-policy](http://www.tjmpromos.com/cookie-policy).
 
 If you have questions or comments about your privacy rights, you may email us at privacy@ tjmpromos.com.
 
@@ -303,4 +303,4 @@ United States
 
 ## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [http://www. tjmpromos.com/contact-us](http://www. tjmpromos.com/contact-us).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [http://www.tjmpromos.com/contact-us](http://www.tjmpromos.com/contact-us).
