@@ -205,7 +205,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 **In Short:** We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@ tjmpromos.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at privacy@tjmpromos.com.
 
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -225,7 +225,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. For further information, please see our Cookie Notice: [http://www.tjmpromos.com/cookie-policy](http://www.tjmpromos.com/cookie-policy).
 
-If you have questions or comments about your privacy rights, you may email us at privacy@ tjmpromos.com.
+If you have questions or comments about your privacy rights, you may email us at privacy@tjmpromos.com.
 
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -293,7 +293,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at privacy@ tjmpromos.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at privacy@tjmpromos.com or contact us by post at:
 
 TJM Promos, Inc.
 
