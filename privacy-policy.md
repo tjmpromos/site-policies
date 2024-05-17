@@ -63,9 +63,9 @@ Want to learn more about what we do with any information we collect? [Review the
 
 [14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#14-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
-## 1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT? {#1-what-information-do-we-collect}
 
-### Personal information you disclose to us
+### Personal information you disclose to us 
 
 **In Short:** We collect personal information that you provide to us.
 
