@@ -35,7 +35,7 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 [7. RETURN POLICY](#7-return-policy)
 
-[8. PROHIBITED ACTIVITIES](8-prohibited-activities)
+[8. PROHIBITED ACTIVITIES](#8-prohibited-activities)
 
 [9. USER GENERATED CONTRIBUTIONS](#9-user-generated-contributions)
 
