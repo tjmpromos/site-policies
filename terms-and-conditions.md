@@ -97,7 +97,7 @@ The client, by commissioning designs to TJM Promos, Inc., hereby represents and 
 
 ### Your use of our Services
 
-Subject to your compliance with these Legal Terms, including the " [PROHIBITED ACTIVITIES](8-prohibited-activities) " section below, we grant you a non-exclusive, non-transferable, revocable license to:
+Subject to your compliance with these Legal Terms, including the " [PROHIBITED ACTIVITIES](#8-prohibited-activities) " section below, we grant you a non-exclusive, non-transferable, revocable license to:
 
 *   access the Services; and
 *   download or print a copy of any portion of the Content to which you have properly gained access.
