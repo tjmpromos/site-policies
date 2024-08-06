@@ -3,6 +3,25 @@
 **Last updated January 02, 2024**
 
 
+## TLDR
+
+**Agreement**: By using our services, you agree to our legal terms. If you disagree, stop using the services.
+
+**Services**: Our services and content are protected by intellectual property laws. You can’t use them for commercial purposes without permission.
+
+**User Conduct**: You must provide accurate information, be 18 or older, and not use our services for illegal activities.
+
+**Purchases and Payments**: Provide accurate payment info and pay in USD. All sales are final, no refunds.
+
+**Privacy and Data**: Your use of our services means you agree to our privacy policy.
+
+**Modifications**: We can change these terms or our services anytime without notice.
+
+**Dispute Resolution**: Disputes are governed by Florida law and handled in Florida courts.
+
+**Contact**: For complaints or information, reach out to us at support@tjmpromos.com or call (+1)800-423-0449.
+
+
 ## AGREEMENT TO OUR LEGAL TERMS
 
 We are TJM Promos, Inc. (" **Company** ," " **we** ," " **us** ," " **our** "), a company registered in Florida, United States at 511 NW 48th Terrace, Ocala, FL 34482.
@@ -172,19 +191,9 @@ We reserve the right to refuse any order placed through the Services. We may, in
 
 ## 7. RETURN POLICY
 
-All sales are final! Due to the nature of our Services, each product is uniquely tailored to individual specifications, we do not allow cancellations post-order confirmation. However, we understand that certain circumstances may necessitate a return. 
+All sales are final! We do not issue refunds. Due to the nature of our Services, each product is uniquely tailored to individual specifications, we do not allow cancellations post-order confirmation.
 
 - Once an order is placed and confirmed, it cannot be cancelled. Each order is custom-made, thereby making it unique to your specifications and unsellable to others.
-- Returns are only considered under specific conditions where a product might fail to meet the agreed specifications or is defective.
-- A return must be initiated within 30 days of product delivery. Any claims made post this period may not be eligible for return processing.
-- All returns, where approved, will be subject to a 50% restocking fee. This fee compensates for the cost incurred in the production and potential loss due to the inability to sell the returned product.
-- The customer is responsible for all shipping and handling charges related to the returned product. These expenses must be prepaid by the customer and are non-refundable.
-
-**Return Approval Process:**
-
-No returns will be accepted without prior approval from our Customer Care department. To initiate a return, the customer must contact Customer Care within the designated return period to obtain approval.
-
-The approval process will include verification that the return request meets our policy conditions and will require submission of detailed reasons for the return along with any supporting evidence (photos, descriptions, etc.).
 
 ## 8. PROHIBITED ACTIVITIES
 
