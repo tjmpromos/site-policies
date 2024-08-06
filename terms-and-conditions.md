@@ -3,7 +3,7 @@
 **Last updated January 02, 2024**
 
 
-## TLDR
+## TL;DR
 
 **Agreement**: By using our services, you agree to our legal terms. If you disagree, stop using the services.
 
@@ -21,7 +21,6 @@
 
 **Contact**: For complaints or information, reach out to us at support@tjmpromos.com or call (+1)800-423-0449.
 
----
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -192,7 +191,7 @@ We reserve the right to refuse any order placed through the Services. We may, in
 
 ## 7. RETURN POLICY
 
-All sales are final! We do not issue refunds. Due to the nature of our Services, each product is uniquely tailored to individual specifications, we do not allow cancellations post-order confirmation.
+All sales are final! We do not issue refunds or returns. Due to the nature of our Services, each product is uniquely tailored to individual specifications, we do not allow cancellations post-order confirmation.
 
 - Once an order is placed and confirmed, it cannot be cancelled. Each order is custom-made, thereby making it unique to your specifications and unsellable to others.
 
