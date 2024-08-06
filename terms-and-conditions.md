@@ -21,6 +21,7 @@
 
 **Contact**: For complaints or information, reach out to us at support@tjmpromos.com or call (+1)800-423-0449.
 
+---
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
