@@ -65,14 +65,14 @@ These cookies are used to enhance the performance and functionality of our Websi
 | Type: | html\_local\_storage |
 | Expires in: | persistent |
 
-|     |     |
-| --- | --- |
-| Name: | XSRF-TOKEN |
+|     |                                                                                                     |
+| --- |-----------------------------------------------------------------------------------------------------|
+| Name: | XSRF-TOKEN                                                                                          |
 | Purpose: | This cookie is written to help with site security in preventing Cross-Site Request Forgery attacks. |
-| Provider: | www.tjmpromos.com |
-| Service: | Advertiser's website domain [View Service Privacy Policy](None) |
-| Type: | server\_cookie |
-| Expires in: | 2 hours |
+| Provider: | www.tjmpromos.com                                                                                   |
+| Service: | Advertiser's website domain [View Service Privacy Policy](#)                                        |
+| Type: | server\_cookie                                                                                      |
+| Expires in: | 2 hours                                                                                             |
 
 **Analytics and customization cookies:**
 
