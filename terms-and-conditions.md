@@ -21,6 +21,8 @@
 
 **Contact**: For complaints or information, reach out to us at support@tjmpromos.com or call (+1)800-423-0449.
 
+**Marketing Communications**: By submitting a quote request, you consent to receive marketing emails and SMS messages. You can opt out anytime.
+
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -68,31 +70,33 @@ We recommend that you print a copy of these Legal Terms for your records.
 
 [14. PRIVACY POLICY](#14-privacy-policy)
 
-[15. TERM AND TERMINATION](#15-term-and-termination)
+[15. CONSENT TO RECEIVE MARKETING COMMUNICATIONS](#15-consent-to-receive-marketing-communications)
 
-[16. MODIFICATIONS AND INTERRUPTIONS](#16-modifications-and-interruptions)
+[16. TERM AND TERMINATION](#16-term-and-termination)
 
-[17. GOVERNING LAW](#17-governing-law)
+[17. MODIFICATIONS AND INTERRUPTIONS](#17-modifications-and-interruptions)
 
-[18. DISPUTE RESOLUTION](#18-dispute-resolution)
+[18. GOVERNING LAW](#18-governing-law)
 
-[19. CORRECTIONS](#19-corrections)
+[19. DISPUTE RESOLUTION](#19-dispute-resolution)
 
-[20. DISCLAIMER](#20-disclaimer)
+[20. CORRECTIONS](#20-corrections)
 
-[21. LIMITATIONS OF LIABILITY](#21-limitations-of-liability)
+[21. DISCLAIMER](#21-disclaimer)
 
-[22. INDEMNIFICATION](#22-indemnification)
+[22. LIMITATIONS OF LIABILITY](#22-limitations-of-liability)
 
-[23. USER DATA](#23-user-data)
+[23. INDEMNIFICATION](#23-indemnification)
 
-[24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#24-electronic-communications-transactions-and-signatures)
+[24. USER DATA](#24-user-data)
 
-[25. CALIFORNIA USERS AND RESIDENTS](#25-california-users-and-residents)
+[25. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES](#25-electronic-communications-transactions-and-signatures)
 
-[26. MISCELLANEOUS](#26-miscellaneous)
+[26. CALIFORNIA USERS AND RESIDENTS](#26-california-users-and-residents)
 
-[27. CONTACT US](#27-contact-us)
+[27. MISCELLANEOUS](#27-miscellaneous)
+
+[28. CONTACT US](#28-contact-us)
 
 ## 1. OUR SERVICES
 
@@ -270,59 +274,67 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 We care about data privacy and security. Please review our Privacy Policy: **[https://www.tjmpromos.com/privacy-policy](https://www.tjmpromos.com/privacy-policy)** . By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
-## 15. TERM AND TERMINATION
+## 15. CONSENT TO RECEIVE MARKETING COMMUNICATIONS
+
+By submitting a quote request or inquiry through our website or any associated platforms, you expressly consent to receive marketing communications from TJM Promos, Inc., including but not limited to promotional emails and SMS/text messages. These communications may include information about our products, special offers, newsletters, and other content we believe may interest you.
+
+You may opt out of these communications at any time by following the unsubscribe instructions included in our emails or by replying STOP to any SMS message, or by contacting us directly at support@tjmpromos.com or (+1)800-423-0449.
+
+Your consent to receive marketing communications is not a condition of any purchase. For more information on how your personal information is used and protected, please refer to our [Privacy Policy](#14-privacy-policy).
+
+## 16. TERM AND TERMINATION
 
 These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
 
 If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
 
-## 16. MODIFICATIONS AND INTERRUPTIONS
+## 17. MODIFICATIONS AND INTERRUPTIONS
 
 We reserve the right to change, modify, or remove the contents of the Services at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Services. We also reserve the right to modify or discontinue all or part of the Services without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Services.
 
 We cannot guarantee the Services will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Services, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Services at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Services during any downtime or discontinuance of the Services. Nothing in these Legal Terms will be construed to obligate us to maintain and support the Services or to supply any corrections, updates, or releases in connection therewith.
 
-## 17. GOVERNING LAW
+## 18. GOVERNING LAW
 
 These Legal Terms and your use of the Services are governed by and construed in accordance with the laws of the State of Florida applicable to agreements made and to be entirely performed within the State of Florida, without regard to its conflict of law principles.
 
-## 18. DISPUTE RESOLUTION
+## 19. DISPUTE RESOLUTION
 
 Any legal action of whatever nature brought by either you or us (collectively, the "Parties" and individually, a "Party") shall be commenced or prosecuted in the state and federal courts located in Marion, Florida, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in such state and federal courts. Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) are excluded from these Legal Terms. In no event shall any claim, action, or proceeding brought by either Party related in any way to the Services be commenced more than one (1) years after the cause of action arose.
 
-## 19. CORRECTIONS
+## 20. CORRECTIONS
 
 There may be information on the Services that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Services at any time, without prior notice.
 
-## 20. DISCLAIMER
+## 21. DISCLAIMER
 
 THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICES BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
-## 21. LIMITATIONS OF LIABILITY
+## 22. LIMITATIONS OF LIABILITY
 
 IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-## 22. INDEMNIFICATION
+## 23. INDEMNIFICATION
 
 You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) use of the Services; (2) breach of these Legal Terms; (3) any breach of your representations and warranties set forth in these Legal Terms; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Services with whom you connected via the Services. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
-## 23. USER DATA
+## 24. USER DATA
 
 We will maintain certain data that you transmit to the Services for the purpose of managing the performance of the Services, as well as data relating to your use of the Services. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Services. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
 
-## 24. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+## 25. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
 
 Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SERVICES. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
 
-## 25. CALIFORNIA USERS AND RESIDENTS
+## 26. CALIFORNIA USERS AND RESIDENTS
 
 If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
 
-## 26. MISCELLANEOUS
+## 27. MISCELLANEOUS
 
 These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
 
-## 27. CONTACT US
+## 28. CONTACT US
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
@@ -339,3 +351,4 @@ In order to resolve a complaint regarding the Services or to receive further inf
 ****Fax: (+1)866-841-0416****
 
 ****support@tjmpromos.com****
+
