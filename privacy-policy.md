@@ -4,7 +4,7 @@
 
 This privacy notice for TJM Promos, Inc. ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-- Visit our website at [https://www.tjmpromos.com](https://www.tjmpromos.com), or any website of ours that links to this privacy notice
+- Visit our website at https://www.tjmpromos.com, or any website of ours that links to this privacy notice
 
 - Engage with us in other related ways, including any sales, marketing, or events
 
@@ -29,7 +29,7 @@ This privacy notice for TJM Promos, Inc. ("**we**," "**us**," or "**our**"), des
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#9-what-are-your-privacy-rights).
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by visiting [http://www.tjmpromos.com/contact-us](http://www.tjmpromos.com/contact-us), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by visiting http://www.tjmpromos.com/contact-us, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#table-of-contents).
 
@@ -305,4 +305,4 @@ United States
 
 ## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: [http://www.tjmpromos.com/contact-us](http://www.tjmpromos.com/contact-us).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: http://www.tjmpromos.com/contact-us.
