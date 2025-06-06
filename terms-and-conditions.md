@@ -28,7 +28,7 @@
 
 We are TJM Promos, Inc. (" **Company** ," " **we** ," " **us** ," " **our** "), a company registered in Florida, United States at 511 NW 48th Terrace, Ocala, FL 34482.
 
-We operate the website [https://www.tjmpromos.com](https://www.tjmpromos.com) (the " **Site** "), as well as any other related websites, products and services that refer or link to these legal terms (the " **Legal Terms** ") (collectively, the " **Services** ").
+We operate the website https://www.tjmpromos.com (the " **Site** "), as well as any other related websites, products and services that refer or link to these legal terms (the " **Legal Terms** ") (collectively, the " **Services** ").
 
 You can contact us by phone at (+1)800-423-0449, email at support@tjmpromos.com, or by mail to 511 NW 48th Terrace, Ocala, FL 34482, United States.
 
@@ -272,7 +272,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ## 14. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: **[https://www.tjmpromos.com/privacy-policy](https://www.tjmpromos.com/privacy-policy)** . By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+We care about data privacy and security. Please review our Privacy Policy: https://www.tjmpromos.com/privacy-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
 ## 15. CONSENT TO RECEIVE MARKETING COMMUNICATIONS
 
